@@ -1,1 +1,1 @@
-Sample text file !
+Git and Github basics 
