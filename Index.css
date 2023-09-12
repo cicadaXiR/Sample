@@ -1,3 +1,7 @@
-body{
-    
+.main{
+    color: red;
+    padding: 10px;
+    margin: auto;
+    width: auto;
+    height: auto;
 }
